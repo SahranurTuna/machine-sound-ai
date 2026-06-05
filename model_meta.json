@@ -1,0 +1,7 @@
+{
+  "test_accuracy": 0.6300527240773286,
+  "abnormal_recall": 0.8431372549019608,
+  "normal_recall": 0.609073359073359,
+  "threshold": 0.22999999999999998,
+  "model_type": "random_forest"
+}
